@@ -19,7 +19,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 90vh;
+    min-height: 95vh;
     backdrop-filter: blur(5px); /* Adds a slight blur to the container area */
     padding: 20px;
     /* background: rgba(255, 255, 255, 0.7); Adds a semi-transparent overlay */
